@@ -1,4 +1,4 @@
-## 1.4
+## 1.5
 
 
 
@@ -50,6 +50,15 @@ Tabla ➕ CÓMO MEJORAR ESTO al final: un mapa rápido de "quiero agregar X → 
 
 ##########################
 ## 1.4
+
+
+
+
+
+
+
+##################
+## 1.5
 
 
 
